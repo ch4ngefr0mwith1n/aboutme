@@ -35,7 +35,7 @@
 - Google Guava library for working with Sets and inverted index data structure for speeding up the search.
 
 ## [Car Rental App](https://github.com/ch4ngefr0mwith1n/Car-Rental-App)
-- Program that manages a car-sharing service allowing companies to rent out their cars and find customers.
+- Program that manages a car-sharing service, allowing companies to rent out their cars and find customers.
 - DAO pattern, SQL, JDBC, Stream API
 
 ## [Simple Banking System](https://github.com/ch4ngefr0mwith1n/Simple-Banking-System)
