@@ -1,6 +1,22 @@
 ### This file contains all projects I worked on, with summarized descriptions and learned concepts.
 ### Code comments are in Serbian language and "readme.md" file inside the projects contains usage cases and results.
 
+## [Web Quiz Engine](https://github.com/ch4ngefr0mwith1n/Web-Quiz-Engine)
+- This app provides multi-user creation, solving and deletion of little web-quizzes using HTTP requests.
+- Pagination, JSON, REST API, Spring Boot Security, H2 database, LocalDateTime, Project Lombok
+
+## [Accounts Service](https://github.com/ch4ngefr0mwith1n/Account-Service)
+- Program which focuses on Spring Security, user authentication and authorization, registering security events and getting acquainted with various security requirements
+- UNFINISHED - need to add user limitations and logging the events
+
+## [Recipes](https://github.com/ch4ngefr0mwith1n/Recipes)
+- Multi-user web service that allows storing, retrieving, updating, and deleting recipes.
+- JSON, REST API, Spring Boot Security, H2 database, LocalDateTime, Project Lombok
+
+## [Cinema Room REST](https://github.com/ch4ngefr0mwith1n/Cinema-Room-REST)
+- Project which represents an intro to Spring Boot and a small movie theather, it handles HTTP requests in controllers, creates services and respons with JSON objects
+- REST service can show the avaliable seats, sell and refund tickets and also display statistics of the cinema venue
+
 ## [Contacts](https://github.com/ch4ngefr0mwith1n/Contacts)
 - OOP and regex practice project, it allows user to create, edit, list, search, count and delete persons or organizations as contacts. It supports both EU and US phone formats.
 - Command/Factory design patterns, Java polymorphism, inheritance, java reflection, runtime type checking, type casting in practice
