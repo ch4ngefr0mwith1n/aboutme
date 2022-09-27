@@ -4,7 +4,7 @@
 ## [Contacts](https://github.com/ch4ngefr0mwith1n/Contacts)
 - OOP and regex practice project, it allows user to create, edit, list, search, count and delete persons or organizations as contacts. It supports both EU and US phone formats.
 - Command/Factory design patterns, Java polymorphism, inheritance, java reflection, runtime type checking, type casting in practice
-- 
+
 ## [Numeric Matrix Processor](https://github.com/ch4ngefr0mwith1n/Numeric-Matrix-Calculator)
 - Console application which allows performing a variety of operations on matrices including addition, multiplication, multiplication with a constant, finding the determinant and dealing with inverse matrices.
 - Matrix theory, working with 2D arrays and indexes
