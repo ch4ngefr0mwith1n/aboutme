@@ -1,5 +1,5 @@
-### This file contains all projects I worked on, with summarized descriptions and learned concepts.
-### Code comments are in Serbian language and "readme.md" file inside the projects contains usage cases and results.
+#### This file contains all projects I worked on, with summarized descriptions and learned concepts.
+#### Code comments are in Serbian language and "readme.md" file inside the projects contains usage cases and results.
 
 ## [Contacts](https://github.com/ch4ngefr0mwith1n/Contacts)
 ## [Numeric Matrix Processor](https://github.com/ch4ngefr0mwith1n/Numeric-Matrix-Calculator)
