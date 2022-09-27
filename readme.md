@@ -33,7 +33,7 @@
 ## [Sorting Tool](https://github.com/ch4ngefr0mwith1n/Sorting-Tool)
 - This program allows taking the raw data in different formats (numbers, words and lines) and sorting it by count or naturally.
 - Strategy design pattern, sorting, console arguments, streams, working with collections and files
-- 
+
 ## [Budget Manager](https://github.com/ch4ngefr0mwith1n/Budget-Manager)
 - Personal budget manager program, which allows user to keep track of income and estimate the expenses. All purchases can be sorted by a type or a subtype. It can also save information to a file and load from it. 
 - working with Collections, Files, sorting and comparators
