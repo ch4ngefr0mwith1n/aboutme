@@ -28,7 +28,7 @@
 ## [Phone Book](https://github.com/ch4ngefr0mwith1n/Phone-Book-Algorithms)
 - This program does benchmark with different searching and sorting methods with data from large dataset, in this case - a phone book.
 - Builder design pattern & Object mapping
-- bubble sort & jump search, quick sort & binary search and hash table
+- Bubble sort & jump search, quick sort & binary search and hash table
 
 ## [Simple Search Engine](https://github.com/ch4ngefr0mwith1n/Simple-Search-Engine)
 - Implementation of a simplest search engine possible. 
@@ -43,7 +43,7 @@
 - Working with SQL and JDBC
 
 ## [Number Base Converter](https://github.com/ch4ngefr0mwith1n/Number-Base-Converter)
-- Math project, it allows user numbers from one numeric system to another. It supports systems from base 2 to base 36, including decimal places.
+- Math project, it allows converting user numbers from one numeric system to another. It supports systems from base 2 to base 36, including decimal places.
 - Working with numeric systems, Big Integer, BigDecimal
 
 ## [Sorting Tool](https://github.com/ch4ngefr0mwith1n/Sorting-Tool)
@@ -52,7 +52,7 @@
 
 ## [Budget Manager](https://github.com/ch4ngefr0mwith1n/Budget-Manager)
 - Personal budget manager program, which allows user to keep track of income and estimate the expenses. All purchases can be sorted by a type or a subtype. It can also save information to a file and load from it. 
-- working with Collections, Files, sorting and comparators
+- Working with Collections, Files, sorting and comparators
 
 ## [Flashcards](https://github.com/ch4ngefr0mwith1n/Flashcards)
 - This program allows user to make cards in format “term:description”. It can also ask users random definitions of some cards, make statistics about the hardest questions, reset statistics and export cards to a file.
@@ -60,7 +60,7 @@
 
 ## [Encryption-Decryption](https://github.com/ch4ngefr0mwith1n/Encryption-Decryption)
 - A simple message encryptor / decryptor with support for several cyphers.
-- working with console arguments
+- Working with console arguments
 
 ## [Readability Score](https://github.com/ch4ngefr0mwith1n/Readability-Score)
 - Calculating various readability indexes for text files (Automated Readability, Flesch-Kincaid, Simple Measure of Gobbledygook, Coleman-Liau)
